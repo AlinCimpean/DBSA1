@@ -8,9 +8,6 @@ import java.util.Vector;
 
 public class HeapFile {
 	
-	public HeapFile() {
-		
-	}
 	
 	private int pageSize;
 	private String file;
@@ -45,19 +42,8 @@ public class HeapFile {
 			
 			while ((line = reader.readLine()) != null) {
 				
-				// testing
-				/*
-				 * String row[] = line.split(",");
-				 * 
-				 * for (String index : row) { System.out.printf("%-10s", index); }
-				 * System.out.println();
-				 */
-
 			
 			}
-			
-			
-			//get time by end of operation
 			long endTime = System.currentTimeMillis();
 			
 			System.out.println("Record Count: " + recordCount);
@@ -74,10 +60,5 @@ public class HeapFile {
 				e.printStackTrace();
 			}
 		}
-
 	}
-	
-		
-	}
-
 }
