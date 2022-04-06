@@ -74,7 +74,7 @@ public class Record {
 		return description;
 	}
 	
-	private String stringToBinary(String value) {
+	public String stringToBinary(String value) {
 		String binary = "";
 		
 		char[] charValue = value.toCharArray();
