@@ -1,0 +1,23 @@
+commit c1d91fb30186c9d60a5d30b8029c87347118471d
+Author: Alin <s3780838@student.rmit.edu.au>
+Date:   Thu Mar 24 15:42:34 2022 +1100
+
+    variables created
+
+commit 99fd4f8c19aca3477431dbdff1cf5bd8b8a6fc41
+Author: Alin <s3780838@student.rmit.edu.au>
+Date:   Thu Mar 24 15:34:48 2022 +1100
+
+    Cleaned CSV + class creation
+
+commit 35bbfce4c798aa879c3b636c2a9e551534b92cbe
+Author: Alin <s3780838@student.rmit.edu.au>
+Date:   Wed Mar 23 16:31:38 2022 +1100
+
+    Initial heapfile commit
+
+commit 0e1d0511e00231134c970035242fb4fa13101a8e
+Author: Alin Cimpean <49212933+s3780838@users.noreply.github.com>
+Date:   Wed Mar 23 16:02:12 2022 +1100
+
+    Initial commit
